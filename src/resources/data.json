@@ -1,0 +1,104 @@
+{
+  "candidate": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "phone": "123-456-7890",
+      "bio": "Experienced software developer",
+      "location": "New York",
+      "profession": "Software Engineer",
+      "skills": "JavaScript, React, Node.js",
+      "profileImage": "path_to_image"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "phone": "987-654-3210",
+      "bio": "Creative UX/UI Designer",
+      "location": "San Francisco",
+      "profession": "Designer",
+      "skills": "Figma, Adobe XD, Photoshop",
+      "profileImage": "path_to_image"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "phone": "555-234-5678",
+      "bio": "Full-stack developer specializing in cloud computing",
+      "location": "Los Angeles",
+      "profession": "Full-stack Developer",
+      "skills": "AWS, Docker, Python, JavaScript",
+      "profileImage": "path_to_image"
+    },
+    {
+      "id": 4,
+      "name": "Emily White",
+      "phone": "333-444-5555",
+      "bio": "Marketing specialist with 5 years of experience",
+      "location": "Chicago",
+      "profession": "Marketing Specialist",
+      "skills": "SEO, Google Analytics, Social Media Marketing",
+      "profileImage": "path_to_image"
+    },
+    {
+      "id": 5,
+      "name": "Robert Green",
+      "phone": "222-333-4444",
+      "bio": "Product manager with a passion for innovative solutions",
+      "location": "Austin",
+      "profession": "Product Manager",
+      "skills": "Agile, Scrum, Jira, Roadmap Planning",
+      "profileImage": "path_to_image"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Johnson",
+      "phone": "444-555-6666",
+      "bio": "Creative director with expertise in digital branding",
+      "location": "Miami",
+      "profession": "Creative Director",
+      "skills": "Adobe Creative Suite, Branding, Digital Marketing",
+      "profileImage": "path_to_image"
+    },
+    {
+      "id": 7,
+      "name": "David Lee",
+      "phone": "777-888-9999",
+      "bio": "Data scientist with a focus on machine learning and AI",
+      "location": "Seattle",
+      "profession": "Data Scientist",
+      "skills": "Python, TensorFlow, Data Visualization",
+      "profileImage": "path_to_image"
+    },
+    {
+      "id": 8,
+      "name": "Linda Martinez",
+      "phone": "888-999-0000",
+      "bio": "Experienced HR manager skilled in employee relations",
+      "location": "Boston",
+      "profession": "HR Manager",
+      "skills": "HR Management, Employee Relations, Recruitment",
+      "profileImage": "path_to_image"
+    },
+    {
+      "id": 9,
+      "name": "Kevin Davis",
+      "phone": "999-000-1111",
+      "bio": "Blockchain developer with a focus on smart contracts",
+      "location": "Denver",
+      "profession": "Blockchain Developer",
+      "skills": "Solidity, Ethereum, Dapps, Cryptography",
+      "profileImage": "path_to_image"
+    },
+    {
+      "id": 10,
+      "name": "Samantha Wilson",
+      "phone": "111-222-3333",
+      "bio": "Cybersecurity expert with a passion for network security",
+      "location": "Houston",
+      "profession": "Cybersecurity Specialist",
+      "skills": "Network Security, Firewalls, Penetration Testing",
+      "profileImage": "path_to_image"
+    }
+  ]
+}
